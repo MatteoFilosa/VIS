@@ -1,0 +1,50 @@
+Low, 0, 38
+Very high, 0, 83
+High, 0, 40
+Low, 0, 121
+No Latency, 1 (lv 1), 147
+Low, 0, 22
+Low, 0, 22
+Low, 1 (lv 3), 1 (lv 1), 95
+Low, 0, 120
+Low, 0, 72
+Low, 0, 343
+High, 0, 694
+High, 0, 153
+Low, 0, 153
+No Latency, 0, 506
+Low, 0, 627
+Low, 3 (lv 1), 798
+High, 0, 49
+Low, 0, 359
+Low, 0, 175
+Low, 0, 426
+High, 0, 67
+No Latency, 1(lv 1), 1(lv 2), 1(lv 3), 185
+No Latency, 0, 68
+High, 0, 51
+No Latency, 0, 65
+No Latency, 0, 571
+Low, 0, 34
+No Latency, 0, 287
+Low, 0, 236
+High, 0, 82
+No Latency, 0, 311
+Low, 0, 69
+High, 0, 109
+No Latency, 0, 8
+Very high, 0, 358
+Low, 4(lv 1), 282
+No Latency, 2(lv 1), 57
+Low, 0, 1582
+Low, 0, 41
+Low, 0, 57
+High, 0, 26
+No Latency, 2(lv 3), 1(lv 2), 61
+Very high, 0, 38
+No Latency, 0, 866
+Low, 1(lv 1), 674
+No Latency, 0, 147
+Low, 0, 3
+High, 1(lv 3), 1(lv 1), 201
+Low, 0, 3857

@@ -1,0 +1,58 @@
+Directly
+
+Arrival delay grows as distance and departure delays do.
+
+If the distance in miles is in between the ranges of 200-800 km, I have higher arrival delays.
+
+Flights with less distance affect more arrival delays.
+
+In my opinion the distance in miles affect more the arrivals delays.
+
+Distance and airtime in minutes are inversely propotional with respect to arrival delays.
+
+Flights with less distance affect more arrival delays.
+
+The arrival delays seem to increase linearly with respect to the flight distance. Also they are connected with the departure time.
+
+While distance negatively influences arrival delay, departure delays negatively influence the former.
+
+Distance is directly proportional, departure delay does not affect.
+
+In my opinion airtime in minute affects the most the arrival delays.
+
+The more the distance of the flight and the departure delays are, the more the arrival delay will be.
+
+Distance in particular over the the departure. In the combination of the two the distance particularly influences the results.
+
+If time of deperture delays increases also the time of arrival delays.nIf distance increases there are less arrival delays.
+
+Departure time might be the part of the interface that influences the delays the most.
+
+Arrival delays seem to linearly increase with departure delays. On the other hand, arrival delays increase when the number of flight increases, but there is no evidence that this is also connected with the distance in miles.
+
+More distant flights appear to be less affected by arrival delays with respect to shorter flights. Departure delays are linearly correlated to arrival delays but can be recovered on longer flights.
+
+High departure delays ~ high arrival delays, I don't think it says about the relationship between distance and delays?
+
+Both of them have a proportional effect.
+
+They increase them.
+
+No visible relationships.
+
+Shorter flight are more susceptible to accumulate the delay, that's add up from departure to arrival time each time. In fact only earlyer flight during the day (0-6AM) are lesser influenced.
+
+They seem to make arrival delays longer.
+
+Distance to be travelled is fixed . When flight's departure is late, it will arrive late to the destination.
+
+The shorter the distance, the higher the probability of an arrival delay. There is positive correlation, by the way, between departure delays and arrival delays.
+
+Greater the distance smaller the delay. Greater the departure delay greater the arrival delay.
+
+There seems to be no correlation between distance and arrival delay. Meanwhile, it seems to be a trend the higher the departure delay the higher the arrival delay will be.
+
+I think I would need a plot distance vs arrival delay to answer this. Departure delay and arrival delay seem to have a proportional (linear?) relationship.
+
+
+

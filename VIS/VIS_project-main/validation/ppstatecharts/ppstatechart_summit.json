@@ -1,0 +1,929 @@
+{
+    "0": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#dag rect",
+                "tag": "rect",
+                "event": "dblclick",
+                "brushable": null,
+                "zoomable": {
+                    "scale": 0.2,
+                    "translate_x": 460,
+                    "translate_y": 50
+                },
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 1000,
+                    "height": 800
+                },
+                "styles": {
+                    "height": 800,
+                    "width": 1000
+                },
+                "data": null
+            },
+            {
+                "id": "#dag rect",
+                "tag": "rect",
+                "event": "mousedown",
+                "brushable": null,
+                "zoomable": {
+                    "scale": 0.2,
+                    "translate_x": 460,
+                    "translate_y": 50
+                },
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 1000,
+                    "height": 800
+                },
+                "styles": {
+                    "height": 800,
+                    "width": 1000
+                },
+                "data": null
+            },
+            {
+                "id": "#dag rect",
+                "tag": "rect",
+                "event": "wheel",
+                "brushable": null,
+                "zoomable": {
+                    "scale": 0.2,
+                    "translate_x": 460,
+                    "translate_y": 50
+                },
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 1000,
+                    "height": 800
+                },
+                "styles": {
+                    "height": 800,
+                    "width": 1000
+                },
+                "data": null
+            },
+            {
+                "id": "#dag-height-filter-slider",
+                "tag": "input",
+                "event": "input",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "range",
+                    "min": "175",
+                    "max": "400",
+                    "value": "300",
+                    "title": "Change height of attribution graph"
+                },
+                "styles": {
+                    "height": 3,
+                    "width": 120
+                },
+                "data": null
+            },
+            {
+                "id": "#dag-width-filter-slider",
+                "tag": "input",
+                "event": "input",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "range",
+                    "min": "0",
+                    "max": "300",
+                    "value": "50",
+                    "title": "Change width of attribution graph"
+                },
+                "styles": {
+                    "height": 3,
+                    "width": 120
+                },
+                "data": null
+            },
+            {
+                "id": "#dag-channel-count-filter-slider",
+                "tag": "input",
+                "event": "input",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "range",
+                    "min": "0",
+                    "max": "962",
+                    "value": "0",
+                    "title": "Filter graph by removing less important channels"
+                },
+                "styles": {
+                    "height": 3,
+                    "width": 120
+                },
+                "data": null
+            },
+            {
+                "id": "#dag-home",
+                "tag": "i",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/button[1]/i[1]",
+                "startingPath": -1,
+                "attributes": {},
+                "styles": {
+                    "height": 24,
+                    "width": 24
+                },
+                "data": null
+            },
+            {
+                "id": "#left-inner-class-bar-options div div.left-inner-option-wrapper button.square-button",
+                "tag": "button",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[3]/button[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button"
+                },
+                "styles": {
+                    "height": 32,
+                    "width": 34
+                },
+                "data": null
+            },
+            {
+                "id": "#left-inner-class-bar-options div div.left-inner-option-wrapper button.square-button",
+                "tag": "button",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/button[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button"
+                },
+                "styles": {
+                    "height": 32,
+                    "width": 34
+                },
+                "data": null
+            },
+            {
+                "id": "#left-inner-class-bar-options div div.left-inner-option-wrapper button.square-button",
+                "tag": "button",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/button[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button"
+                },
+                "styles": {
+                    "height": 32,
+                    "width": 34
+                },
+                "data": null
+            },
+            {
+                "id": "#left-inner-embedding svg rect",
+                "tag": "rect",
+                "event": "dblclick",
+                "brushable": null,
+                "zoomable": {
+                    "scale": 1,
+                    "translate_x": 0,
+                    "translate_y": 0
+                },
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 400,
+                    "height": 400
+                },
+                "styles": {
+                    "height": 400,
+                    "width": 400
+                },
+                "data": null
+            },
+            {
+                "id": "#left-inner-embedding svg rect",
+                "tag": "rect",
+                "event": "mousedown",
+                "brushable": null,
+                "zoomable": {
+                    "scale": 1,
+                    "translate_x": 0,
+                    "translate_y": 0
+                },
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 400,
+                    "height": 400
+                },
+                "styles": {
+                    "height": 400,
+                    "width": 400
+                },
+                "data": null
+            },
+            {
+                "id": "#left-inner-embedding svg rect",
+                "tag": "rect",
+                "event": "wheel",
+                "brushable": null,
+                "zoomable": {
+                    "scale": 1,
+                    "translate_x": 0,
+                    "translate_y": 0
+                },
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 400,
+                    "height": 400
+                },
+                "styles": {
+                    "height": 400,
+                    "width": 400
+                },
+                "data": null
+            },
+            {
+                "id": "#left-inner-embedding-options div.left-inner-option-wrapper button.square-button",
+                "tag": "button",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/button[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button",
+                    "title": "Reset zoom"
+                },
+                "styles": {
+                    "height": 32,
+                    "width": 34
+                },
+                "data": null
+            },
+            {
+                "id": "#net g.layer-glyph-wrapper",
+                "tag": "g",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 1,
+                "siblings": 8,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='g']",
+                "startingPath": "1",
+                "attributes": {},
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": {
+                    "0": "m",
+                    "1": "i",
+                    "2": "x",
+                    "3": "e",
+                    "4": "d",
+                    "5": "3",
+                    "6": "a"
+                }
+            },
+            {
+                "id": "#point-n02106550",
+                "tag": "circle",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 2,
+                "siblings": 999,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='g'][1]/*[name()='circle']",
+                "startingPath": "1",
+                "attributes": {
+                    "r": "3",
+                    "cx": "24.26833428084138",
+                    "cy": "96.03425805250419"
+                },
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": {
+                    "synset": "n02106550",
+                    "label": "64",
+                    "name": "rottweiler",
+                    "topOneAccCount": 995,
+                    "target_class": 234,
+                    "numOfInstances": 1299,
+                    "topOneAcc": 0.7659738260200154,
+                    "distanceFromQueryPoint": 0.6564005556598157
+                }
+            },
+            {
+                "id": "#class-bar-n02114548",
+                "tag": "div",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 3,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]",
+                "startingPath": -1,
+                "attributes": {},
+                "styles": {
+                    "height": 35,
+                    "width": 368
+                },
+                "data": {
+                    "synset": "n02114548",
+                    "label": "102",
+                    "name": "white_wolf",
+                    "topOneAccCount": 1063,
+                    "target_class": 270,
+                    "numOfInstances": 1299,
+                    "topOneAcc": 0.8183217859892224,
+                    "distanceFromQueryPoint": 1.0000000000000002
+                }
+            },
+            {
+                "id": "#class-bar-n02114712",
+                "tag": "div",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 4,
+                "siblings": 248,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div",
+                "startingPath": "1",
+                "attributes": {},
+                "styles": {
+                    "height": 35,
+                    "width": 368
+                },
+                "data": {
+                    "synset": "n02114712",
+                    "label": "28",
+                    "name": "red_wolf",
+                    "topOneAccCount": 909,
+                    "target_class": 271,
+                    "numOfInstances": 1300,
+                    "topOneAcc": 0.6992307692307692,
+                    "distanceFromQueryPoint": 0.6751852917810012
+                }
+            },
+            {
+                "id": "#dag-edge-mixed5b-101-mixed5a-1",
+                "tag": "path",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 5,
+                "siblings": 123,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='path']",
+                "startingPath": "1",
+                "attributes": {
+                    "d": "M-525,76.992376992377C-525 226.992376992377,-225.00000000000003 135.16978516978514,-225.00000000000003 314.8302148302148"
+                },
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": {
+                    "prev_channel": 1,
+                    "inf": 623
+                }
+            },
+            {
+                "id": "#mixed5b-101-channel",
+                "tag": "image",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 6,
+                "siblings": 46,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='image']",
+                "startingPath": "1",
+                "attributes": {
+                    "x": "0",
+                    "y": "0",
+                    "width": 53,
+                    "height": 53,
+                    "href": "../data/feature-vis/channel/mixed5b-101-channel.jpg",
+                    "clip-path": "url(#fv-clip-path-mixed5b-101)",
+                    "transform": "translate(-551.992376992377,23.007623007623003 )"
+                },
+                "styles": {
+                    "height": 53,
+                    "width": 53
+                },
+                "data": {
+                    "channel": 101,
+                    "count": 298,
+                    "layer": "mixed5b",
+                    "pagerank": 0.0012551962113344082,
+                    "prev_channels": [
+                        {
+                            "prev_channel": 1,
+                            "inf": 623
+                        },
+                        {
+                            "prev_channel": 762,
+                            "inf": 1293
+                        },
+                        {
+                            "prev_channel": 101,
+                            "inf": 164
+                        }
+                    ],
+                    "attr_channels": [
+                        {
+                            "prev_channel": "762",
+                            "inf": 1293
+                        },
+                        {
+                            "prev_channel": "197",
+                            "inf": 633
+                        },
+                        {
+                            "prev_channel": "1",
+                            "inf": 623
+                        }
+                    ],
+                    "width": 53.98475398475399,
+                    "x": -551.992376992377,
+                    "y": 23.007623007623003,
+                    "numOfEdgesIn": 0,
+                    "numOfEdgesOut": 3
+                }
+            }
+        ]
+    },
+    "1": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#net g.layer-glyph-wrapper",
+                "tag": "g",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 1,
+                "siblings": 8,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='g']",
+                "startingPath": "1",
+                "attributes": {},
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": {
+                    "0": "m",
+                    "1": "i",
+                    "2": "x",
+                    "3": "e",
+                    "4": "d",
+                    "5": "3",
+                    "6": "a"
+                }
+            },
+            {
+                "id": "#net g.layer-glyph-wrapper",
+                "tag": "g",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 8,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='g']",
+                "startingPath": "1",
+                "attributes": {},
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": {
+                    "0": "m",
+                    "1": "i",
+                    "2": "x",
+                    "3": "e",
+                    "4": "d",
+                    "5": "3",
+                    "6": "a"
+                }
+            }
+        ]
+    },
+    "2": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#point-n02106550",
+                "tag": "circle",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 2,
+                "siblings": 999,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='g'][1]/*[name()='circle']",
+                "startingPath": "1",
+                "attributes": {
+                    "r": "3",
+                    "cx": "24.26833428084138",
+                    "cy": "96.03425805250419"
+                },
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": {
+                    "synset": "n02106550",
+                    "label": "64",
+                    "name": "rottweiler",
+                    "topOneAccCount": 995,
+                    "target_class": 234,
+                    "numOfInstances": 1299,
+                    "topOneAcc": 0.7659738260200154,
+                    "distanceFromQueryPoint": 0.6564005556598157
+                }
+            },
+            {
+                "id": "#point-n02106550",
+                "tag": "circle",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 999,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='g'][1]/*[name()='circle']",
+                "startingPath": "1",
+                "attributes": {
+                    "r": "3",
+                    "cx": "24.26833428084138",
+                    "cy": "96.03425805250419"
+                },
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": {
+                    "synset": "n02106550",
+                    "label": "64",
+                    "name": "rottweiler",
+                    "topOneAccCount": 995,
+                    "target_class": 234,
+                    "numOfInstances": 1299,
+                    "topOneAcc": 0.7659738260200154,
+                    "distanceFromQueryPoint": 0.6564005556598157
+                }
+            }
+        ]
+    },
+    "3": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#class-bar-n02114548",
+                "tag": "div",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 3,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]",
+                "startingPath": -1,
+                "attributes": {},
+                "styles": {
+                    "height": 35,
+                    "width": 368
+                },
+                "data": {
+                    "synset": "n02114548",
+                    "label": "102",
+                    "name": "white_wolf",
+                    "topOneAccCount": 1063,
+                    "target_class": 270,
+                    "numOfInstances": 1299,
+                    "topOneAcc": 0.8183217859892224,
+                    "distanceFromQueryPoint": 1.0000000000000002
+                }
+            },
+            {
+                "id": "#class-bar-n02114548",
+                "tag": "div",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]",
+                "startingPath": -1,
+                "attributes": {},
+                "styles": {
+                    "height": 35,
+                    "width": 368
+                },
+                "data": {
+                    "synset": "n02114548",
+                    "label": "102",
+                    "name": "white_wolf",
+                    "topOneAccCount": 1063,
+                    "target_class": 270,
+                    "numOfInstances": 1299,
+                    "topOneAcc": 0.8183217859892224,
+                    "distanceFromQueryPoint": 1.0000000000000002
+                }
+            }
+        ]
+    },
+    "4": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#class-bar-n02114712",
+                "tag": "div",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 4,
+                "siblings": 248,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div",
+                "startingPath": "1",
+                "attributes": {},
+                "styles": {
+                    "height": 35,
+                    "width": 368
+                },
+                "data": {
+                    "synset": "n02114712",
+                    "label": "28",
+                    "name": "red_wolf",
+                    "topOneAccCount": 909,
+                    "target_class": 271,
+                    "numOfInstances": 1300,
+                    "topOneAcc": 0.6992307692307692,
+                    "distanceFromQueryPoint": 0.6751852917810012
+                }
+            },
+            {
+                "id": "#class-bar-n02114712",
+                "tag": "div",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 248,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div",
+                "startingPath": "1",
+                "attributes": {},
+                "styles": {
+                    "height": 35,
+                    "width": 368
+                },
+                "data": {
+                    "synset": "n02114712",
+                    "label": "28",
+                    "name": "red_wolf",
+                    "topOneAccCount": 909,
+                    "target_class": 271,
+                    "numOfInstances": 1300,
+                    "topOneAcc": 0.6992307692307692,
+                    "distanceFromQueryPoint": 0.6751852917810012
+                }
+            }
+        ]
+    },
+    "5": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#dag-edge-mixed5b-101-mixed5a-1",
+                "tag": "path",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 123,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='path']",
+                "startingPath": "1",
+                "attributes": {
+                    "d": "M-525,76.992376992377C-525 226.992376992377,-225.00000000000003 135.16978516978514,-225.00000000000003 314.8302148302148"
+                },
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": {
+                    "prev_channel": 1,
+                    "inf": 623
+                }
+            }
+        ]
+    },
+    "6": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#mixed5b-101-channel",
+                "tag": "image",
+                "event": "mousemove",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 6,
+                "siblings": 46,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='image']",
+                "startingPath": "1",
+                "attributes": {
+                    "x": "0",
+                    "y": "0",
+                    "width": 53,
+                    "height": 53,
+                    "href": "../data/feature-vis/channel/mixed5b-101-channel.jpg",
+                    "clip-path": "url(#fv-clip-path-mixed5b-101)",
+                    "transform": "translate(-551.992376992377,23.007623007623003 )"
+                },
+                "styles": {
+                    "height": 53,
+                    "width": 53
+                },
+                "data": {
+                    "channel": 101,
+                    "count": 298,
+                    "layer": "mixed5b",
+                    "pagerank": 0.0012551962113344082,
+                    "prev_channels": [
+                        {
+                            "prev_channel": 1,
+                            "inf": 623
+                        },
+                        {
+                            "prev_channel": 762,
+                            "inf": 1293
+                        },
+                        {
+                            "prev_channel": 101,
+                            "inf": 164
+                        }
+                    ],
+                    "attr_channels": [
+                        {
+                            "prev_channel": "762",
+                            "inf": 1293
+                        },
+                        {
+                            "prev_channel": "197",
+                            "inf": 633
+                        },
+                        {
+                            "prev_channel": "1",
+                            "inf": 623
+                        }
+                    ],
+                    "width": 53.98475398475399,
+                    "x": -551.992376992377,
+                    "y": 23.007623007623003,
+                    "numOfEdgesIn": 0,
+                    "numOfEdgesOut": 3
+                }
+            },
+            {
+                "id": "#mixed5b-101-channel",
+                "tag": "image",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 46,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='image']",
+                "startingPath": "1",
+                "attributes": {
+                    "x": "0",
+                    "y": "0",
+                    "width": 53,
+                    "height": 53,
+                    "href": "../data/feature-vis/channel/mixed5b-101-channel.jpg",
+                    "clip-path": "url(#fv-clip-path-mixed5b-101)",
+                    "transform": "translate(-551.992376992377,23.007623007623003 )"
+                },
+                "styles": {
+                    "height": 53,
+                    "width": 53
+                },
+                "data": {
+                    "channel": 101,
+                    "count": 298,
+                    "layer": "mixed5b",
+                    "pagerank": 0.0012551962113344082,
+                    "prev_channels": [
+                        {
+                            "prev_channel": 1,
+                            "inf": 623
+                        },
+                        {
+                            "prev_channel": 762,
+                            "inf": 1293
+                        },
+                        {
+                            "prev_channel": 101,
+                            "inf": 164
+                        }
+                    ],
+                    "attr_channels": [
+                        {
+                            "prev_channel": "762",
+                            "inf": 1293
+                        },
+                        {
+                            "prev_channel": "197",
+                            "inf": 633
+                        },
+                        {
+                            "prev_channel": "1",
+                            "inf": 623
+                        }
+                    ],
+                    "width": 53.98475398475399,
+                    "x": -551.992376992377,
+                    "y": 23.007623007623003,
+                    "numOfEdgesIn": 0,
+                    "numOfEdgesOut": 3
+                }
+            }
+        ]
+    }
+}

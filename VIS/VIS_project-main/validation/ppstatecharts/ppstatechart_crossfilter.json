@@ -1,0 +1,160 @@
+{
+    "0": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#date-chart div.title a.reset",
+                "tag": "a",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/a[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "href": "javascript:reset(3)"
+                },
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": {
+                    "margin": {},
+                    "x": {},
+                    "y": {},
+                    "dimension": {},
+                    "filter": {},
+                    "group": {},
+                    "round": {},
+                    "on": {}
+                }
+            },
+            {
+                "id": "#hour-chart svg g g.brush",
+                "tag": "g",
+                "event": "mousedown",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 1,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='g'][2]",
+                "startingPath": -1,
+                "attributes": {},
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": {
+                    "margin": {},
+                    "x": {},
+                    "y": {},
+                    "dimension": {},
+                    "filter": {},
+                    "group": {},
+                    "round": {},
+                    "on": {}
+                }
+            },
+            {
+                "id": "#delay-chart svg g g.brush",
+                "tag": "g",
+                "event": "mousedown",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 2,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='g'][2]",
+                "startingPath": -1,
+                "attributes": {},
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": {
+                    "margin": {},
+                    "x": {},
+                    "y": {},
+                    "dimension": {},
+                    "filter": {},
+                    "group": {},
+                    "round": {},
+                    "on": {}
+                }
+            },
+            {
+                "id": "#distance-chart svg g g.brush",
+                "tag": "g",
+                "event": "mousedown",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 3,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='g'][2]",
+                "startingPath": -1,
+                "attributes": {},
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": {
+                    "margin": {},
+                    "x": {},
+                    "y": {},
+                    "dimension": {},
+                    "filter": {},
+                    "group": {},
+                    "round": {},
+                    "on": {}
+                }
+            },
+            {
+                "id": "#date-chart svg g g.brush",
+                "tag": "g",
+                "event": "mousedown",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 4,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='g'][2]",
+                "startingPath": -1,
+                "attributes": {},
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": {
+                    "margin": {},
+                    "x": {},
+                    "y": {},
+                    "dimension": {},
+                    "filter": {},
+                    "group": {},
+                    "round": {},
+                    "on": {}
+                }
+            }
+        ]
+    },
+    "1": {
+        "visited": null,
+        "transitions": []
+    },
+    "2": {
+        "visited": null,
+        "transitions": []
+    },
+    "3": {
+        "visited": null,
+        "transitions": []
+    },
+    "4": {
+        "visited": null,
+        "transitions": []
+    }
+}

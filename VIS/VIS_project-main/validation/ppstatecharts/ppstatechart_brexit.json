@@ -1,0 +1,1041 @@
+{
+    "0": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#map",
+                "tag": "div",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 1,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]",
+                "startingPath": -1,
+                "attributes": {
+                    "align": "left"
+                },
+                "styles": {
+                    "height": 700,
+                    "width": 400
+                },
+                "data": null
+            },
+            {
+                "id": "#bar_0",
+                "tag": "rect",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 6,
+                "siblings": 16,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[3]/*[name()='svg'][1]/*[name()='g'][7]/*[name()='rect']",
+                "startingPath": "1",
+                "attributes": {
+                    "x": "10",
+                    "y": "54.86486486486487",
+                    "width": 10,
+                    "stroke": "#000",
+                    "stroke-width": "0.5",
+                    "height": 120,
+                    "fill": "#bae4b3"
+                },
+                "styles": {
+                    "height": 120,
+                    "width": 10
+                },
+                "data": null
+            },
+            {
+                "id": "#plotButton",
+                "tag": "button",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 7,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[4]/button[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button"
+                },
+                "styles": {
+                    "height": 20,
+                    "width": 36
+                },
+                "data": null
+            }
+        ]
+    },
+    "1": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#bothButton",
+                "tag": "button",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 1,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/button[3]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button"
+                },
+                "styles": {
+                    "height": 20,
+                    "width": 76
+                },
+                "data": null
+            },
+            {
+                "id": "#ageButton",
+                "tag": "button",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 1,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/button[2]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button"
+                },
+                "styles": {
+                    "height": 20,
+                    "width": 73
+                },
+                "data": null
+            },
+            {
+                "id": "#resultsButton",
+                "tag": "button",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 1,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/button[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button"
+                },
+                "styles": {
+                    "height": 20,
+                    "width": 92
+                },
+                "data": null
+            },
+            {
+                "id": "#selectAllButton",
+                "tag": "button",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 2,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/button[4]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button"
+                },
+                "styles": {
+                    "height": 20,
+                    "width": 68
+                },
+                "data": null
+            },
+            {
+                "id": "#deselectAllButton",
+                "tag": "button",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 3,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/button[5]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button"
+                },
+                "styles": {
+                    "height": 20,
+                    "width": 82
+                },
+                "data": null
+            },
+            {
+                "id": "#path_E06000001",
+                "tag": "path",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 4,
+                "siblings": 379,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='path']",
+                "startingPath": "1",
+                "attributes": {
+                    "d": "M225.7715282638312,263.09447656958855L225.42490800108084,267.32498450588946L219.74753074434375,266.51302168977145Z"
+                },
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    -1.242825023970778,
+                                    54.72225343469755
+                                ],
+                                [
+                                    -1.250768975230502,
+                                    54.62529733471889
+                                ],
+                                [
+                                    -1.380884877436341,
+                                    54.64390615171294
+                                ],
+                                [
+                                    -1.242825023970778,
+                                    54.72225343469755
+                                ]
+                            ]
+                        ]
+                    },
+                    "properties": {
+                        "LAD13CD": "E06000001",
+                        "LAD13CDO": "00EB",
+                        "LAD13NM": "Hartlepool",
+                        "LAD13NMW": null
+                    }
+                }
+            },
+            {
+                "id": "#mapBar_0",
+                "tag": "rect",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 5,
+                "siblings": 16,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/*[name()='svg'][1]/*[name()='g'][4]/*[name()='rect']",
+                "startingPath": "1",
+                "attributes": {
+                    "x": "10",
+                    "y": "27.240586287256235",
+                    "width": 10,
+                    "stroke": "#000",
+                    "stroke-width": "0.5",
+                    "height": 147,
+                    "fill": "#bae4b3"
+                },
+                "styles": {
+                    "height": 147,
+                    "width": 10
+                },
+                "data": null
+            }
+        ]
+    },
+    "2": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#selectAllButton",
+                "tag": "button",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 2,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/button[4]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button"
+                },
+                "styles": {
+                    "height": 20,
+                    "width": 68
+                },
+                "data": null
+            }
+        ]
+    },
+    "3": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#deselectAllButton",
+                "tag": "button",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 3,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/button[5]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button"
+                },
+                "styles": {
+                    "height": 20,
+                    "width": 82
+                },
+                "data": null
+            },
+            {
+                "id": "#deselectAllButton",
+                "tag": "button",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 1,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/button[5]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button"
+                },
+                "styles": {
+                    "height": 20,
+                    "width": 82
+                },
+                "data": null
+            }
+        ]
+    },
+    "4": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#path_E06000001",
+                "tag": "path",
+                "event": "contextmenu",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 4,
+                "siblings": 379,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='path']",
+                "startingPath": "1",
+                "attributes": {
+                    "d": "M225.7715282638312,263.09447656958855L225.42490800108084,267.32498450588946L219.74753074434375,266.51302168977145Z"
+                },
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    -1.242825023970778,
+                                    54.72225343469755
+                                ],
+                                [
+                                    -1.250768975230502,
+                                    54.62529733471889
+                                ],
+                                [
+                                    -1.380884877436341,
+                                    54.64390615171294
+                                ],
+                                [
+                                    -1.242825023970778,
+                                    54.72225343469755
+                                ]
+                            ]
+                        ]
+                    },
+                    "properties": {
+                        "LAD13CD": "E06000001",
+                        "LAD13CDO": "00EB",
+                        "LAD13NM": "Hartlepool",
+                        "LAD13NMW": null
+                    }
+                }
+            },
+            {
+                "id": "#path_E06000001",
+                "tag": "path",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 4,
+                "siblings": 379,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='path']",
+                "startingPath": "1",
+                "attributes": {
+                    "d": "M225.7715282638312,263.09447656958855L225.42490800108084,267.32498450588946L219.74753074434375,266.51302168977145Z"
+                },
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    -1.242825023970778,
+                                    54.72225343469755
+                                ],
+                                [
+                                    -1.250768975230502,
+                                    54.62529733471889
+                                ],
+                                [
+                                    -1.380884877436341,
+                                    54.64390615171294
+                                ],
+                                [
+                                    -1.242825023970778,
+                                    54.72225343469755
+                                ]
+                            ]
+                        ]
+                    },
+                    "properties": {
+                        "LAD13CD": "E06000001",
+                        "LAD13CDO": "00EB",
+                        "LAD13NM": "Hartlepool",
+                        "LAD13NMW": null
+                    }
+                }
+            }
+        ]
+    },
+    "5": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#mapBar_0",
+                "tag": "rect",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 1,
+                "siblings": 16,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/*[name()='svg'][1]/*[name()='g'][4]/*[name()='rect']",
+                "startingPath": "1",
+                "attributes": {
+                    "x": "10",
+                    "y": "27.240586287256235",
+                    "width": 10,
+                    "stroke": "#000",
+                    "stroke-width": "2",
+                    "height": 147,
+                    "fill": "#bae4b3"
+                },
+                "styles": {
+                    "height": 147,
+                    "width": 10
+                },
+                "data": null
+            }
+        ]
+    },
+    "6": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#bar_0",
+                "tag": "rect",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 16,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[3]/*[name()='svg'][1]/*[name()='g'][7]/*[name()='rect']",
+                "startingPath": "1",
+                "attributes": {
+                    "x": "10",
+                    "y": "54.86486486486487",
+                    "width": 10,
+                    "stroke": "#000",
+                    "stroke-width": "2",
+                    "height": 120,
+                    "fill": "#bae4b3"
+                },
+                "styles": {
+                    "height": 120,
+                    "width": 10
+                },
+                "data": null
+            }
+        ]
+    },
+    "7": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#plotButton",
+                "tag": "button",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 7,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[4]/button[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button"
+                },
+                "styles": {
+                    "height": 20,
+                    "width": 36
+                },
+                "data": null
+            },
+            {
+                "id": "#map",
+                "tag": "div",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 8,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]",
+                "startingPath": -1,
+                "attributes": {
+                    "align": "left"
+                },
+                "styles": {
+                    "height": 700,
+                    "width": 400
+                },
+                "data": null
+            },
+            {
+                "id": "#bar_0",
+                "tag": "rect",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 13,
+                "siblings": 16,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[3]/*[name()='svg'][1]/*[name()='g'][7]/*[name()='rect']",
+                "startingPath": "1",
+                "attributes": {
+                    "x": "10",
+                    "y": "54.86486486486487",
+                    "width": 10,
+                    "stroke": "#000",
+                    "stroke-width": "0.5",
+                    "height": 120,
+                    "fill": "#bae4b3"
+                },
+                "styles": {
+                    "height": 120,
+                    "width": 10
+                },
+                "data": null
+            },
+            {
+                "id": "#circle_E06000031",
+                "tag": "circle",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 14,
+                "siblings": 319,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[4]/*[name()='svg'][1]/*[name()='svg'][1]/*[name()='g'][3]/*[name()='circle']",
+                "startingPath": "1",
+                "attributes": {
+                    "r": "3",
+                    "stroke": "#000",
+                    "stroke-width": "0.5",
+                    "cx": "105",
+                    "cy": "309.7385226763155",
+                    "fill": "#fc8d59"
+                },
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": null
+            }
+        ]
+    },
+    "8": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#bothButton",
+                "tag": "button",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 8,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/button[3]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button"
+                },
+                "styles": {
+                    "height": 20,
+                    "width": 76
+                },
+                "data": null
+            },
+            {
+                "id": "#ageButton",
+                "tag": "button",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 8,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/button[2]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button"
+                },
+                "styles": {
+                    "height": 20,
+                    "width": 73
+                },
+                "data": null
+            },
+            {
+                "id": "#resultsButton",
+                "tag": "button",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 8,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/button[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button"
+                },
+                "styles": {
+                    "height": 20,
+                    "width": 92
+                },
+                "data": null
+            },
+            {
+                "id": "#selectAllButton",
+                "tag": "button",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 9,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/button[4]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button"
+                },
+                "styles": {
+                    "height": 20,
+                    "width": 68
+                },
+                "data": null
+            },
+            {
+                "id": "#deselectAllButton",
+                "tag": "button",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 10,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/button[5]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button"
+                },
+                "styles": {
+                    "height": 20,
+                    "width": 82
+                },
+                "data": null
+            },
+            {
+                "id": "#path_E06000001",
+                "tag": "path",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 11,
+                "siblings": 379,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='path']",
+                "startingPath": "1",
+                "attributes": {
+                    "d": "M225.7715282638312,263.09447656958855L225.42490800108084,267.32498450588946L219.74753074434375,266.51302168977145Z"
+                },
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    -1.242825023970778,
+                                    54.72225343469755
+                                ],
+                                [
+                                    -1.250768975230502,
+                                    54.62529733471889
+                                ],
+                                [
+                                    -1.380884877436341,
+                                    54.64390615171294
+                                ],
+                                [
+                                    -1.242825023970778,
+                                    54.72225343469755
+                                ]
+                            ]
+                        ]
+                    },
+                    "properties": {
+                        "LAD13CD": "E06000001",
+                        "LAD13CDO": "00EB",
+                        "LAD13NM": "Hartlepool",
+                        "LAD13NMW": null
+                    }
+                }
+            },
+            {
+                "id": "#mapBar_0",
+                "tag": "rect",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 12,
+                "siblings": 16,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/*[name()='svg'][1]/*[name()='g'][4]/*[name()='rect']",
+                "startingPath": "1",
+                "attributes": {
+                    "x": "10",
+                    "y": "27.240586287256235",
+                    "width": 10,
+                    "stroke": "#000",
+                    "stroke-width": "0.5",
+                    "height": 147,
+                    "fill": "#bae4b3"
+                },
+                "styles": {
+                    "height": 147,
+                    "width": 10
+                },
+                "data": null
+            }
+        ]
+    },
+    "9": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#selectAllButton",
+                "tag": "button",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 9,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/button[4]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button"
+                },
+                "styles": {
+                    "height": 20,
+                    "width": 68
+                },
+                "data": null
+            }
+        ]
+    },
+    "10": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#deselectAllButton",
+                "tag": "button",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 10,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/button[5]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button"
+                },
+                "styles": {
+                    "height": 20,
+                    "width": 82
+                },
+                "data": null
+            },
+            {
+                "id": "#deselectAllButton",
+                "tag": "button",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 8,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/button[5]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button"
+                },
+                "styles": {
+                    "height": 20,
+                    "width": 82
+                },
+                "data": null
+            }
+        ]
+    },
+    "11": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#path_E06000001",
+                "tag": "path",
+                "event": "contextmenu",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 11,
+                "siblings": 379,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='path']",
+                "startingPath": "1",
+                "attributes": {
+                    "d": "M225.7715282638312,263.09447656958855L225.42490800108084,267.32498450588946L219.74753074434375,266.51302168977145Z"
+                },
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    -1.242825023970778,
+                                    54.72225343469755
+                                ],
+                                [
+                                    -1.250768975230502,
+                                    54.62529733471889
+                                ],
+                                [
+                                    -1.380884877436341,
+                                    54.64390615171294
+                                ],
+                                [
+                                    -1.242825023970778,
+                                    54.72225343469755
+                                ]
+                            ]
+                        ]
+                    },
+                    "properties": {
+                        "LAD13CD": "E06000001",
+                        "LAD13CDO": "00EB",
+                        "LAD13NM": "Hartlepool",
+                        "LAD13NMW": null
+                    }
+                }
+            },
+            {
+                "id": "#path_E06000001",
+                "tag": "path",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 11,
+                "siblings": 379,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='path']",
+                "startingPath": "1",
+                "attributes": {
+                    "d": "M225.7715282638312,263.09447656958855L225.42490800108084,267.32498450588946L219.74753074434375,266.51302168977145Z"
+                },
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    -1.242825023970778,
+                                    54.72225343469755
+                                ],
+                                [
+                                    -1.250768975230502,
+                                    54.62529733471889
+                                ],
+                                [
+                                    -1.380884877436341,
+                                    54.64390615171294
+                                ],
+                                [
+                                    -1.242825023970778,
+                                    54.72225343469755
+                                ]
+                            ]
+                        ]
+                    },
+                    "properties": {
+                        "LAD13CD": "E06000001",
+                        "LAD13CDO": "00EB",
+                        "LAD13NM": "Hartlepool",
+                        "LAD13NMW": null
+                    }
+                }
+            }
+        ]
+    },
+    "12": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#mapBar_0",
+                "tag": "rect",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 8,
+                "siblings": 16,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/*[name()='svg'][1]/*[name()='g'][4]/*[name()='rect']",
+                "startingPath": "1",
+                "attributes": {
+                    "x": "10",
+                    "y": "27.240586287256235",
+                    "width": 10,
+                    "stroke": "#000",
+                    "stroke-width": "2",
+                    "height": 147,
+                    "fill": "#bae4b3"
+                },
+                "styles": {
+                    "height": 147,
+                    "width": 10
+                },
+                "data": null
+            }
+        ]
+    },
+    "13": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#bar_0",
+                "tag": "rect",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 7,
+                "siblings": 16,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[3]/*[name()='svg'][1]/*[name()='g'][7]/*[name()='rect']",
+                "startingPath": "1",
+                "attributes": {
+                    "x": "10",
+                    "y": "54.86486486486487",
+                    "width": 10,
+                    "stroke": "#000",
+                    "stroke-width": "2",
+                    "height": 120,
+                    "fill": "#bae4b3"
+                },
+                "styles": {
+                    "height": 120,
+                    "width": 10
+                },
+                "data": null
+            }
+        ]
+    },
+    "14": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#circle_E06000031",
+                "tag": "circle",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 7,
+                "siblings": 319,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[4]/*[name()='svg'][1]/*[name()='svg'][1]/*[name()='g'][3]/*[name()='circle']",
+                "startingPath": "1",
+                "attributes": {
+                    "r": "3",
+                    "stroke": "#000",
+                    "stroke-width": "2",
+                    "cx": "105",
+                    "cy": "309.7385226763155",
+                    "fill": "#fc8d59"
+                },
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": null
+            }
+        ]
+    }
+}

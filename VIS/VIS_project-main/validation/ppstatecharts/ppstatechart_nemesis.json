@@ -1,0 +1,4074 @@
+{
+    "0": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#cancdis",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/div[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button",
+                    "value": "Cancer diseases"
+                },
+                "styles": {
+                    "height": 34,
+                    "width": 75
+                },
+                "data": null
+            },
+            {
+                "id": "#list-area input",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button",
+                    "value": "Select All"
+                },
+                "styles": {
+                    "height": 21,
+                    "width": 70
+                },
+                "data": null
+            },
+            {
+                "id": "#all-only",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": null
+            },
+            {
+                "id": "#all-only",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": null
+            },
+            {
+                "id": "#svgM rect.legendSquare",
+                "tag": "rect",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 1,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/*[name()='svg'][1]/*[name()='rect']",
+                "startingPath": "1",
+                "attributes": {
+                    "x": "354",
+                    "y": "30",
+                    "width": 20,
+                    "height": 20,
+                    "active": "false",
+                    "dist": "1"
+                },
+                "styles": {
+                    "height": 20,
+                    "width": 20
+                },
+                "data": null
+            },
+            {
+                "id": "#131-125",
+                "tag": "rect",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 1,
+                "siblings": 4925,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='rect']",
+                "startingPath": "1",
+                "attributes": {
+                    "selected": "false",
+                    "width": 1,
+                    "height": 2,
+                    "x": "31.938271604938272",
+                    "y": "30"
+                },
+                "styles": {
+                    "height": 2,
+                    "width": 1
+                },
+                "data": {
+                    "id": "131-125",
+                    "source": {
+                        "name": "131",
+                        "group": 2,
+                        "sortedIndex": 0
+                    },
+                    "target": {
+                        "name": "125",
+                        "group": 2,
+                        "sortedIndex": 1
+                    },
+                    "x": 1.9382716049382716,
+                    "y": 0,
+                    "weight": 1,
+                    "height": 2.7777777777777777,
+                    "width": 1.9382716049382716,
+                    "distance": 2,
+                    "path": "125-217-131"
+                }
+            },
+            {
+                "id": "#svgS g circle.dot",
+                "tag": "circle",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 2,
+                "siblings": 204,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[3]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='circle']",
+                "startingPath": "1",
+                "attributes": {
+                    "selected": "false",
+                    "redselected": "0",
+                    "r": "1.1636363636363636",
+                    "cx": "41",
+                    "cy": "224.87940630797775"
+                },
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": {
+                    "Gene_ID": "125",
+                    "Fan_out": 2,
+                    "Percentage": 1.4285714285714286,
+                    "Efficiency": 1.2244897959183674,
+                    "Fan_out_list": "131- 217",
+                    "eff": "0.40816326530612246",
+                    "effex_only": "1.2244897959183674",
+                    "effex_only_m2": "1.2244897959183674",
+                    "effex_m2": "4.655528878217955",
+                    "effex": "4.655528878217955"
+                }
+            },
+            {
+                "id": "#list-area input",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 3,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button",
+                    "value": "Deselect All"
+                },
+                "styles": {
+                    "height": 21,
+                    "width": 85
+                },
+                "data": null
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 5,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "breast neoplasms "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 7,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "carcinoma renal cell "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 9,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 37,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "colorectal neoplasms "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 11,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 37,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "head and neck neoplasms "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 13,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "leukemia b-cell "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 15,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "leukemia myeloid "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 17,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "lymphoma "
+                }
+            },
+            {
+                "id": "#t5d1",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 18,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button",
+                    "value": "Top 5 intersecting D1"
+                },
+                "styles": {
+                    "height": 34,
+                    "width": 75
+                },
+                "data": null
+            },
+            {
+                "id": "#t5d2",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 18,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[2]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button",
+                    "value": "Top 5 intersecting D2"
+                },
+                "styles": {
+                    "height": 34,
+                    "width": 75
+                },
+                "data": null
+            },
+            {
+                "id": "#t5s",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 18,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[3]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button",
+                    "value": "Top 5 sensibility"
+                },
+                "styles": {
+                    "height": 34,
+                    "width": 75
+                },
+                "data": null
+            }
+        ]
+    },
+    "1": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#131-125",
+                "tag": "rect",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 4925,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='rect']",
+                "startingPath": "1",
+                "attributes": {
+                    "selected": "false",
+                    "width": 1,
+                    "height": 2,
+                    "x": "31.938271604938272",
+                    "y": "30"
+                },
+                "styles": {
+                    "height": 2,
+                    "width": 1
+                },
+                "data": {
+                    "id": "131-125",
+                    "source": {
+                        "name": "131",
+                        "group": 2,
+                        "sortedIndex": 0
+                    },
+                    "target": {
+                        "name": "125",
+                        "group": 2,
+                        "sortedIndex": 1
+                    },
+                    "x": 1.9382716049382716,
+                    "y": 0,
+                    "weight": 1,
+                    "height": 2.7777777777777777,
+                    "width": 1.9382716049382716,
+                    "distance": 2,
+                    "path": "125-217-131"
+                }
+            }
+        ]
+    },
+    "2": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#svgS g circle.dot",
+                "tag": "circle",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 2,
+                "siblings": 204,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[3]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='circle']",
+                "startingPath": "1",
+                "attributes": {
+                    "selected": "false",
+                    "redselected": "0",
+                    "r": "1.1636363636363636",
+                    "cx": "41",
+                    "cy": "224.87940630797775"
+                },
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": {
+                    "Gene_ID": "125",
+                    "Fan_out": 2,
+                    "Percentage": 1.4285714285714286,
+                    "Efficiency": 1.2244897959183674,
+                    "Fan_out_list": "131- 217",
+                    "eff": "0.40816326530612246",
+                    "effex_only": "1.2244897959183674",
+                    "effex_only_m2": "1.2244897959183674",
+                    "effex_m2": "4.655528878217955",
+                    "effex": "4.655528878217955"
+                }
+            },
+            {
+                "id": "#svgS g circle.dot",
+                "tag": "circle",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 204,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[3]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='circle']",
+                "startingPath": "1",
+                "attributes": {
+                    "selected": "false",
+                    "redselected": "0",
+                    "r": "1.1636363636363636",
+                    "cx": "41",
+                    "cy": "224.87940630797775"
+                },
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": {
+                    "Gene_ID": "125",
+                    "Fan_out": 2,
+                    "Percentage": 1.4285714285714286,
+                    "Efficiency": 1.2244897959183674,
+                    "Fan_out_list": "131- 217",
+                    "eff": "0.40816326530612246",
+                    "effex_only": "1.2244897959183674",
+                    "effex_only_m2": "1.2244897959183674",
+                    "effex_m2": "4.655528878217955",
+                    "effex": "4.655528878217955"
+                }
+            }
+        ]
+    },
+    "3": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area input",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 3,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button",
+                    "value": "Deselect All"
+                },
+                "styles": {
+                    "height": 21,
+                    "width": 85
+                },
+                "data": null
+            },
+            {
+                "id": "#all-only",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 3,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": null
+            },
+            {
+                "id": "#all-only",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 3,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": null
+            },
+            {
+                "id": "#list-area input",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button",
+                    "value": "Select All"
+                },
+                "styles": {
+                    "height": 21,
+                    "width": 70
+                },
+                "data": null
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 4,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "breast neoplasms "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 6,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "carcinoma renal cell "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 8,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 37,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "colorectal neoplasms "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 10,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 37,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "head and neck neoplasms "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 12,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "leukemia b-cell "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 14,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "leukemia myeloid "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 16,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "lymphoma "
+                }
+            },
+            {
+                "id": "#cancdis",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/div[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button",
+                    "value": "Cancer diseases"
+                },
+                "styles": {
+                    "height": 34,
+                    "width": 75
+                },
+                "data": null
+            },
+            {
+                "id": "#t5d1",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 18,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button",
+                    "value": "Top 5 intersecting D1"
+                },
+                "styles": {
+                    "height": 34,
+                    "width": 75
+                },
+                "data": null
+            },
+            {
+                "id": "#t5d2",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 18,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[2]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button",
+                    "value": "Top 5 intersecting D2"
+                },
+                "styles": {
+                    "height": 34,
+                    "width": 75
+                },
+                "data": null
+            },
+            {
+                "id": "#t5s",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 18,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[3]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button",
+                    "value": "Top 5 sensibility"
+                },
+                "styles": {
+                    "height": 34,
+                    "width": 75
+                },
+                "data": null
+            }
+        ]
+    },
+    "4": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 4,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "breast neoplasms "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 3,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "breast neoplasms "
+                }
+            },
+            {
+                "id": "#breast neoplasms ",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 5,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "false"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "breast neoplasms "
+                }
+            },
+            {
+                "id": "#breast neoplasms ",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 5,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "false"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "breast neoplasms "
+                }
+            }
+        ]
+    },
+    "5": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 5,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "breast neoplasms "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "breast neoplasms "
+                }
+            },
+            {
+                "id": "#breast neoplasms ",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 4,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "breast neoplasms "
+                }
+            },
+            {
+                "id": "#breast neoplasms ",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 4,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "breast neoplasms "
+                }
+            }
+        ]
+    },
+    "6": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 6,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "carcinoma renal cell "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 3,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "carcinoma renal cell "
+                }
+            },
+            {
+                "id": "#carcinoma renal cell ",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 7,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "false"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "carcinoma renal cell "
+                }
+            },
+            {
+                "id": "#carcinoma renal cell ",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 7,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "false"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "carcinoma renal cell "
+                }
+            }
+        ]
+    },
+    "7": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 7,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "carcinoma renal cell "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "carcinoma renal cell "
+                }
+            },
+            {
+                "id": "#carcinoma renal cell ",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 6,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "carcinoma renal cell "
+                }
+            },
+            {
+                "id": "#carcinoma renal cell ",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 6,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "carcinoma renal cell "
+                }
+            }
+        ]
+    },
+    "8": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 8,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 37,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "colorectal neoplasms "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 3,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 37,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "colorectal neoplasms "
+                }
+            },
+            {
+                "id": "#colorectal neoplasms ",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 9,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "false"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "colorectal neoplasms "
+                }
+            },
+            {
+                "id": "#colorectal neoplasms ",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 9,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "false"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "colorectal neoplasms "
+                }
+            }
+        ]
+    },
+    "9": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 9,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 37,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "colorectal neoplasms "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 37,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "colorectal neoplasms "
+                }
+            },
+            {
+                "id": "#colorectal neoplasms ",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 8,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "colorectal neoplasms "
+                }
+            },
+            {
+                "id": "#colorectal neoplasms ",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 8,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "colorectal neoplasms "
+                }
+            }
+        ]
+    },
+    "10": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 10,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 37,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "head and neck neoplasms "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 3,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 37,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "head and neck neoplasms "
+                }
+            },
+            {
+                "id": "#head and neck neoplasms ",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 11,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "false"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "head and neck neoplasms "
+                }
+            },
+            {
+                "id": "#head and neck neoplasms ",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 11,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "false"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "head and neck neoplasms "
+                }
+            }
+        ]
+    },
+    "11": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 11,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 37,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "head and neck neoplasms "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 37,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "head and neck neoplasms "
+                }
+            },
+            {
+                "id": "#head and neck neoplasms ",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 10,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "head and neck neoplasms "
+                }
+            },
+            {
+                "id": "#head and neck neoplasms ",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 10,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "head and neck neoplasms "
+                }
+            }
+        ]
+    },
+    "12": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 12,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "leukemia b-cell "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 3,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "leukemia b-cell "
+                }
+            },
+            {
+                "id": "#leukemia b-cell ",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 13,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "false"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "leukemia b-cell "
+                }
+            },
+            {
+                "id": "#leukemia b-cell ",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 13,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "false"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "leukemia b-cell "
+                }
+            }
+        ]
+    },
+    "13": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 13,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "leukemia b-cell "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "leukemia b-cell "
+                }
+            },
+            {
+                "id": "#leukemia b-cell ",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 12,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "leukemia b-cell "
+                }
+            },
+            {
+                "id": "#leukemia b-cell ",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 12,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "leukemia b-cell "
+                }
+            }
+        ]
+    },
+    "14": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 14,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "leukemia myeloid "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 3,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "leukemia myeloid "
+                }
+            },
+            {
+                "id": "#leukemia myeloid ",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 15,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "false"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "leukemia myeloid "
+                }
+            },
+            {
+                "id": "#leukemia myeloid ",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 15,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "false"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "leukemia myeloid "
+                }
+            }
+        ]
+    },
+    "15": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 15,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "leukemia myeloid "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "leukemia myeloid "
+                }
+            },
+            {
+                "id": "#leukemia myeloid ",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 14,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "leukemia myeloid "
+                }
+            },
+            {
+                "id": "#leukemia myeloid ",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 14,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "leukemia myeloid "
+                }
+            }
+        ]
+    },
+    "16": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 16,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "lymphoma "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 3,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "lymphoma "
+                }
+            },
+            {
+                "id": "#lymphoma ",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 17,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "false"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "lymphoma "
+                }
+            },
+            {
+                "id": "#lymphoma ",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 17,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "false"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "lymphoma "
+                }
+            }
+        ]
+    },
+    "17": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 17,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "lymphoma "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 169
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "lymphoma "
+                }
+            },
+            {
+                "id": "#lymphoma ",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 16,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "lymphoma "
+                }
+            },
+            {
+                "id": "#lymphoma ",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 16,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "lymphoma "
+                }
+            }
+        ]
+    },
+    "18": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#t5s",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 18,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[3]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button",
+                    "value": "Top 5 sensibility"
+                },
+                "styles": {
+                    "height": 34,
+                    "width": 75
+                },
+                "data": null
+            },
+            {
+                "id": "#t5d2",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 18,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[2]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button",
+                    "value": "Top 5 intersecting D2"
+                },
+                "styles": {
+                    "height": 34,
+                    "width": 75
+                },
+                "data": null
+            },
+            {
+                "id": "#t5d1",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 18,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button",
+                    "value": "Top 5 intersecting D1"
+                },
+                "styles": {
+                    "height": 34,
+                    "width": 75
+                },
+                "data": null
+            },
+            {
+                "id": "#list-area input",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 18,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button",
+                    "value": "Select All"
+                },
+                "styles": {
+                    "height": 21,
+                    "width": 70
+                },
+                "data": null
+            },
+            {
+                "id": "#all-only",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 18,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": null
+            },
+            {
+                "id": "#all-only",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 18,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": null
+            },
+            {
+                "id": "#svgM rect.legendSquare",
+                "tag": "rect",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 18,
+                "siblings": 1,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/*[name()='svg'][1]/*[name()='rect']",
+                "startingPath": "1",
+                "attributes": {
+                    "x": "354",
+                    "y": "30",
+                    "width": 20,
+                    "height": 20,
+                    "active": "false",
+                    "dist": "1"
+                },
+                "styles": {
+                    "height": 20,
+                    "width": 20
+                },
+                "data": null
+            },
+            {
+                "id": "#718-629",
+                "tag": "rect",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 19,
+                "siblings": 767,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='rect']",
+                "startingPath": "1",
+                "attributes": {
+                    "selected": "false",
+                    "width": 4,
+                    "height": 6,
+                    "x": "34.3013698630137",
+                    "y": "30"
+                },
+                "styles": {
+                    "height": 6,
+                    "width": 4
+                },
+                "data": {
+                    "id": "718-629",
+                    "source": {
+                        "name": "718",
+                        "group": 1,
+                        "sortedIndex": 0
+                    },
+                    "target": {
+                        "name": "629",
+                        "group": 1,
+                        "sortedIndex": 1
+                    },
+                    "x": 4.301369863013698,
+                    "y": 0,
+                    "weight": 1,
+                    "height": 6.164383561643835,
+                    "width": 4.301369863013699,
+                    "distance": 1,
+                    "path": "629-718"
+                }
+            },
+            {
+                "id": "#svgS g circle.dot",
+                "tag": "circle",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 20,
+                "siblings": 79,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[3]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='circle']",
+                "startingPath": "1",
+                "attributes": {
+                    "selected": "false",
+                    "redselected": "0",
+                    "r": "4",
+                    "cx": "25",
+                    "cy": "138.93576661433804"
+                },
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": {
+                    "Gene_ID": "23",
+                    "Fan_out": 8,
+                    "Percentage": 2.857142857142857,
+                    "Efficiency": 11.086080586080588,
+                    "Fan_out_list": "6125- 6165- 6204- 6223- 6231- 7015- 7454- 54205",
+                    "eff": "3.333333333333333",
+                    "effex_only": "11.086080586080588",
+                    "effex_only_m2": "11.086080586080588",
+                    "effex_m2": "18.61721611721612",
+                    "effex": "18.61721611721612"
+                }
+            },
+            {
+                "id": "#list-area input",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 21,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button",
+                    "value": "Deselect All"
+                },
+                "styles": {
+                    "height": 21,
+                    "width": 85
+                },
+                "data": null
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 23,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "anemia aplastic "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 25,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 37,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "blood coagulation disorders "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 27,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 37,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "blood platelet disorders "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 29,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "exophthalmos "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 31,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "graves disease "
+                }
+            },
+            {
+                "id": "#cancdis",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/div[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button",
+                    "value": "Cancer diseases"
+                },
+                "styles": {
+                    "height": 34,
+                    "width": 75
+                },
+                "data": null
+            }
+        ]
+    },
+    "19": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#718-629",
+                "tag": "rect",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 18,
+                "siblings": 767,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='rect']",
+                "startingPath": "1",
+                "attributes": {
+                    "selected": "false",
+                    "width": 4,
+                    "height": 6,
+                    "x": "34.3013698630137",
+                    "y": "30"
+                },
+                "styles": {
+                    "height": 6,
+                    "width": 4
+                },
+                "data": {
+                    "id": "718-629",
+                    "source": {
+                        "name": "718",
+                        "group": 1,
+                        "sortedIndex": 0
+                    },
+                    "target": {
+                        "name": "629",
+                        "group": 1,
+                        "sortedIndex": 1
+                    },
+                    "x": 4.301369863013698,
+                    "y": 0,
+                    "weight": 1,
+                    "height": 6.164383561643835,
+                    "width": 4.301369863013699,
+                    "distance": 1,
+                    "path": "629-718"
+                }
+            }
+        ]
+    },
+    "20": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#svgS g circle.dot",
+                "tag": "circle",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 20,
+                "siblings": 79,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[3]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='circle']",
+                "startingPath": "1",
+                "attributes": {
+                    "selected": "false",
+                    "redselected": "0",
+                    "r": "4",
+                    "cx": "25",
+                    "cy": "138.93576661433804"
+                },
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": {
+                    "Gene_ID": "23",
+                    "Fan_out": 8,
+                    "Percentage": 2.857142857142857,
+                    "Efficiency": 11.086080586080588,
+                    "Fan_out_list": "6125- 6165- 6204- 6223- 6231- 7015- 7454- 54205",
+                    "eff": "3.333333333333333",
+                    "effex_only": "11.086080586080588",
+                    "effex_only_m2": "11.086080586080588",
+                    "effex_m2": "18.61721611721612",
+                    "effex": "18.61721611721612"
+                }
+            },
+            {
+                "id": "#svgS g circle.dot",
+                "tag": "circle",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 18,
+                "siblings": 79,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[3]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='circle']",
+                "startingPath": "1",
+                "attributes": {
+                    "selected": "false",
+                    "redselected": "0",
+                    "r": "4",
+                    "cx": "25",
+                    "cy": "138.93576661433804"
+                },
+                "styles": {
+                    "height": "auto",
+                    "width": "auto"
+                },
+                "data": {
+                    "Gene_ID": "23",
+                    "Fan_out": 8,
+                    "Percentage": 2.857142857142857,
+                    "Efficiency": 11.086080586080588,
+                    "Fan_out_list": "6125- 6165- 6204- 6223- 6231- 7015- 7454- 54205",
+                    "eff": "3.333333333333333",
+                    "effex_only": "11.086080586080588",
+                    "effex_only_m2": "11.086080586080588",
+                    "effex_m2": "18.61721611721612",
+                    "effex": "18.61721611721612"
+                }
+            }
+        ]
+    },
+    "21": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area input",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 21,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button",
+                    "value": "Deselect All"
+                },
+                "styles": {
+                    "height": 21,
+                    "width": 85
+                },
+                "data": null
+            },
+            {
+                "id": "#all-only",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 21,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": null
+            },
+            {
+                "id": "#all-only",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 21,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": null
+            },
+            {
+                "id": "#list-area input",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 18,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button",
+                    "value": "Select All"
+                },
+                "styles": {
+                    "height": 21,
+                    "width": 70
+                },
+                "data": null
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 22,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "anemia aplastic "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 24,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 37,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "blood coagulation disorders "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 26,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 37,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "blood platelet disorders "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 28,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "exophthalmos "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseover",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 30,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "graves disease "
+                }
+            },
+            {
+                "id": "#cancdis",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/div[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button",
+                    "value": "Cancer diseases"
+                },
+                "styles": {
+                    "height": 34,
+                    "width": 75
+                },
+                "data": null
+            },
+            {
+                "id": "#t5d1",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 18,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button",
+                    "value": "Top 5 intersecting D1"
+                },
+                "styles": {
+                    "height": 34,
+                    "width": 75
+                },
+                "data": null
+            },
+            {
+                "id": "#t5d2",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 18,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[2]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button",
+                    "value": "Top 5 intersecting D2"
+                },
+                "styles": {
+                    "height": 34,
+                    "width": 75
+                },
+                "data": null
+            },
+            {
+                "id": "#t5s",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 18,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[3]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "button",
+                    "value": "Top 5 sensibility"
+                },
+                "styles": {
+                    "height": 34,
+                    "width": 75
+                },
+                "data": null
+            }
+        ]
+    },
+    "22": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 22,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "anemia aplastic "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 21,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "anemia aplastic "
+                }
+            },
+            {
+                "id": "#anemia aplastic ",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 23,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "false"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "anemia aplastic "
+                }
+            },
+            {
+                "id": "#anemia aplastic ",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 23,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "false"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "anemia aplastic "
+                }
+            }
+        ]
+    },
+    "23": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 23,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "anemia aplastic "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 18,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "anemia aplastic "
+                }
+            },
+            {
+                "id": "#anemia aplastic ",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 22,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "anemia aplastic "
+                }
+            },
+            {
+                "id": "#anemia aplastic ",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 22,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "anemia aplastic "
+                }
+            }
+        ]
+    },
+    "24": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 24,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 37,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "blood coagulation disorders "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 21,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 37,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "blood coagulation disorders "
+                }
+            },
+            {
+                "id": "#blood coagulation disorders ",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 25,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "false"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "blood coagulation disorders "
+                }
+            },
+            {
+                "id": "#blood coagulation disorders ",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 25,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "false"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "blood coagulation disorders "
+                }
+            }
+        ]
+    },
+    "25": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 25,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 37,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "blood coagulation disorders "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 18,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 37,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "blood coagulation disorders "
+                }
+            },
+            {
+                "id": "#blood coagulation disorders ",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 24,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "blood coagulation disorders "
+                }
+            },
+            {
+                "id": "#blood coagulation disorders ",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 24,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "blood coagulation disorders "
+                }
+            }
+        ]
+    },
+    "26": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 26,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 37,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "blood platelet disorders "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 21,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 37,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "blood platelet disorders "
+                }
+            },
+            {
+                "id": "#blood platelet disorders ",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 27,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "false"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "blood platelet disorders "
+                }
+            },
+            {
+                "id": "#blood platelet disorders ",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 27,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "false"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "blood platelet disorders "
+                }
+            }
+        ]
+    },
+    "27": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 27,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 37,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "blood platelet disorders "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 18,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 37,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "blood platelet disorders "
+                }
+            },
+            {
+                "id": "#blood platelet disorders ",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 26,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "blood platelet disorders "
+                }
+            },
+            {
+                "id": "#blood platelet disorders ",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 26,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "blood platelet disorders "
+                }
+            }
+        ]
+    },
+    "28": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 28,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "exophthalmos "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 21,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "exophthalmos "
+                }
+            },
+            {
+                "id": "#exophthalmos ",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 29,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "false"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "exophthalmos "
+                }
+            },
+            {
+                "id": "#exophthalmos ",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 29,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "false"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "exophthalmos "
+                }
+            }
+        ]
+    },
+    "29": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 29,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "exophthalmos "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 18,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "exophthalmos "
+                }
+            },
+            {
+                "id": "#exophthalmos ",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 28,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "exophthalmos "
+                }
+            },
+            {
+                "id": "#exophthalmos ",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 28,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "exophthalmos "
+                }
+            }
+        ]
+    },
+    "30": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 30,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "graves disease "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 21,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "graves disease "
+                }
+            },
+            {
+                "id": "#graves disease ",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 31,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "false"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "graves disease "
+                }
+            },
+            {
+                "id": "#graves disease ",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 31,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "false"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "graves disease "
+                }
+            }
+        ]
+    },
+    "31": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 31,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "graves disease "
+                }
+            },
+            {
+                "id": "#list-area table tbody tr td.atd",
+                "tag": "td",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 18,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "selected": "false"
+                },
+                "styles": {
+                    "height": 19,
+                    "width": 173
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "graves disease "
+                }
+            },
+            {
+                "id": "#graves disease ",
+                "tag": "input",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 30,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "graves disease "
+                }
+            },
+            {
+                "id": "#graves disease ",
+                "tag": "input",
+                "event": "change",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 30,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]/input[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "type": "checkbox",
+                    "checked": "true"
+                },
+                "styles": {
+                    "height": 13,
+                    "width": 13
+                },
+                "data": {
+                    "column": "Dis_ID",
+                    "value": "graves disease "
+                }
+            }
+        ]
+    }
+}

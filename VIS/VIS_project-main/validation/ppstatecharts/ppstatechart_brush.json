@@ -1,0 +1,69 @@
+{
+    "0": [
+        {
+            "id": "svg g g.cell",
+            "tag": "g",
+            "event": "mousedown",
+            "brushable": {
+                "handles": [
+                    {
+                        "type": "n"
+                    },
+                    {
+                        "type": "e"
+                    },
+                    {
+                        "type": "s"
+                    },
+                    {
+                        "type": "w"
+                    },
+                    {
+                        "type": "nw"
+                    },
+                    {
+                        "type": "ne"
+                    },
+                    {
+                        "type": "se"
+                    },
+                    {
+                        "type": "sw"
+                    }
+                ],
+                "directions": "xy",
+                "brush_extent": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        230,
+                        230
+                    ]
+                ],
+                "selection_extent": null
+            },
+            "zoomable": null,
+            "leadsToState": 0,
+            "siblings": 15,
+            "xpath": "/html[1]/body[1]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='g']",
+            "startingPath": "9",
+            "attributes": {
+                "transform": "translate(690,0)",
+                "fill": "none",
+                "pointer-events": "all"
+            },
+            "styles": {
+                "height": "auto",
+                "width": "auto"
+            },
+            "data": {
+                "x": "sepal length",
+                "i": 0,
+                "y": "sepal length",
+                "j": 0
+            }
+        }
+    ]
+}

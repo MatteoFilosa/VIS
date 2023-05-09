@@ -1,0 +1,76 @@
+{
+    "0": [
+        {
+            "id": "canvas",
+            "tag": "canvas",
+            "event": "wheel",
+            "brushable": null,
+            "zoomable": {
+                "scale": 1,
+                "translate_x": 0,
+                "translate_y": 0
+            },
+            "leadsToState": 0,
+            "siblings": 0,
+            "xpath": "/html[1]/body[1]/canvas[1]",
+            "startingPath": -1,
+            "attributes": {
+                "width": 960.0,
+                "height": 500.0
+            },
+            "styles": {
+                "height": 500.0,
+                "width": 960.0
+            },
+            "data": null
+        },
+        {
+            "id": "canvas",
+            "tag": "canvas",
+            "event": "mousedown",
+            "brushable": null,
+            "zoomable": {
+                "scale": 1,
+                "translate_x": 0,
+                "translate_y": 0
+            },
+            "leadsToState": 0,
+            "siblings": 0,
+            "xpath": "/html[1]/body[1]/canvas[1]",
+            "startingPath": -1,
+            "attributes": {
+                "width": 960.0,
+                "height": 500.0
+            },
+            "styles": {
+                "height": 500.0,
+                "width": 960.0
+            },
+            "data": null
+        },
+        {
+            "id": "canvas",
+            "tag": "canvas",
+            "event": "dblclick",
+            "brushable": null,
+            "zoomable": {
+                "scale": 1,
+                "translate_x": 0,
+                "translate_y": 0
+            },
+            "leadsToState": 0,
+            "siblings": 0,
+            "xpath": "/html[1]/body[1]/canvas[1]",
+            "startingPath": -1,
+            "attributes": {
+                "width": 960.0,
+                "height": 500.0
+            },
+            "styles": {
+                "height": 500.0,
+                "width": 960.0
+            },
+            "data": null
+        }
+    ]
+}

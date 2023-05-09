@@ -1,0 +1,50 @@
+Low, 0
+Very high, 0
+High, 0
+Low, 0
+No Latency, 1 (lv 1)
+Low, 0
+Low, 0
+Low, 1 (lv 3), 1 (lv 1)
+Low, 0
+Low, 0
+Low, 0
+High, 0
+High, 0
+Low, 0
+No Latency, 0
+Low, 0
+Low, 3 (lv 1)
+High, 0
+Low, 0
+Low, 0
+Low, 0
+High, 0
+No Latency, 1(lv 1), 1(lv 2), 1(lv 3)
+No Latency, 0
+High, 0
+No Latency, 0
+No Latency, 0
+Low, 0
+No Latency, 0
+Low, 0
+High, 0
+No Latency, 0
+Low, 0
+High, 0
+No Latency, 0
+Very high, 0
+Low, 4(lv 1)
+No Latency, 2(lv 1)
+Low, 0
+Low, 0
+Low, 0
+High, 0
+No Latency, 2(lv 3), 1(lv 2)
+Very high, 0
+No Latency, 0
+Low, 1(lv 1)
+No Latency, 0
+Low, 0
+High, 1(lv 3), 1(lv 1) 
+Low, 0

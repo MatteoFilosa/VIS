@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "is-same-origin": "^0.0.7",
+    "puppeteer": "^19.3.0"
+  }
+}

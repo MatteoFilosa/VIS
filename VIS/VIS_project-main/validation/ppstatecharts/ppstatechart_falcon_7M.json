@@ -1,0 +1,1665 @@
+{
+    "0": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#delay canvas.marks",
+                "tag": "canvas",
+                "event": "dblclick",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[7]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 479,
+                    "height": 381
+                },
+                "styles": {
+                    "height": 381,
+                    "width": 479
+                },
+                "data": null
+            },
+            {
+                "id": "#delay canvas.marks",
+                "tag": "canvas",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[7]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 479,
+                    "height": 381
+                },
+                "styles": {
+                    "height": 381,
+                    "width": 479
+                },
+                "data": null
+            },
+            {
+                "id": "#delay canvas.marks",
+                "tag": "canvas",
+                "event": "mousemove",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[7]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 479,
+                    "height": 381
+                },
+                "styles": {
+                    "height": 381,
+                    "width": 479
+                },
+                "data": null
+            },
+            {
+                "id": "#delay canvas.marks",
+                "tag": "canvas",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[7]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 479,
+                    "height": 381
+                },
+                "styles": {
+                    "height": 381,
+                    "width": 479
+                },
+                "data": null
+            },
+            {
+                "id": "#airtime canvas.marks",
+                "tag": "canvas",
+                "event": "wheel",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[6]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 686,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 686
+                },
+                "data": null
+            },
+            {
+                "id": "#airtime canvas.marks",
+                "tag": "canvas",
+                "event": "dblclick",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[6]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 686,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 686
+                },
+                "data": null
+            },
+            {
+                "id": "#airtime canvas.marks",
+                "tag": "canvas",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[6]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 686,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 686
+                },
+                "data": null
+            },
+            {
+                "id": "#airtime canvas.marks",
+                "tag": "canvas",
+                "event": "mousemove",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[6]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 686,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 686
+                },
+                "data": null
+            },
+            {
+                "id": "#airtime canvas.marks",
+                "tag": "canvas",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[6]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 686,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 686
+                },
+                "data": null
+            },
+            {
+                "id": "#departure canvas.marks",
+                "tag": "canvas",
+                "event": "wheel",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 681,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 681
+                },
+                "data": null
+            },
+            {
+                "id": "#departure canvas.marks",
+                "tag": "canvas",
+                "event": "dblclick",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 681,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 681
+                },
+                "data": null
+            },
+            {
+                "id": "#departure canvas.marks",
+                "tag": "canvas",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 681,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 681
+                },
+                "data": null
+            },
+            {
+                "id": "#departure canvas.marks",
+                "tag": "canvas",
+                "event": "mousemove",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 681,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 681
+                },
+                "data": null
+            },
+            {
+                "id": "#departure canvas.marks",
+                "tag": "canvas",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 681,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 681
+                },
+                "data": null
+            },
+            {
+                "id": "#arrival canvas.marks",
+                "tag": "canvas",
+                "event": "wheel",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[3]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 681,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 681
+                },
+                "data": null
+            },
+            {
+                "id": "#arrival canvas.marks",
+                "tag": "canvas",
+                "event": "dblclick",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[3]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 681,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 681
+                },
+                "data": null
+            },
+            {
+                "id": "#arrival canvas.marks",
+                "tag": "canvas",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[3]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 681,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 681
+                },
+                "data": null
+            },
+            {
+                "id": "#arrival canvas.marks",
+                "tag": "canvas",
+                "event": "mousemove",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[3]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 681,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 681
+                },
+                "data": null
+            },
+            {
+                "id": "#arrival canvas.marks",
+                "tag": "canvas",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[3]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 681,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 681
+                },
+                "data": null
+            },
+            {
+                "id": "#distance canvas.marks",
+                "tag": "canvas",
+                "event": "wheel",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 690,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 690
+                },
+                "data": null
+            },
+            {
+                "id": "#distance canvas.marks",
+                "tag": "canvas",
+                "event": "dblclick",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 690,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 690
+                },
+                "data": null
+            },
+            {
+                "id": "#distance canvas.marks",
+                "tag": "canvas",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 690,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 690
+                },
+                "data": null
+            },
+            {
+                "id": "#distance canvas.marks",
+                "tag": "canvas",
+                "event": "mousemove",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 690,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 690
+                },
+                "data": null
+            },
+            {
+                "id": "#distance canvas.marks",
+                "tag": "canvas",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 690,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 690
+                },
+                "data": null
+            },
+            {
+                "id": "#count canvas.marks",
+                "tag": "canvas",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[1]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 636,
+                    "height": 79
+                },
+                "styles": {
+                    "height": 79,
+                    "width": 636
+                },
+                "data": null
+            },
+            {
+                "id": "#count canvas.marks",
+                "tag": "canvas",
+                "event": "mousemove",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[1]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 636,
+                    "height": 79
+                },
+                "styles": {
+                    "height": 79,
+                    "width": 636
+                },
+                "data": null
+            },
+            {
+                "id": "#count canvas.marks",
+                "tag": "canvas",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[1]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 636,
+                    "height": 79
+                },
+                "styles": {
+                    "height": 79,
+                    "width": 636
+                },
+                "data": null
+            },
+            {
+                "id": "#count canvas.marks",
+                "tag": "canvas",
+                "event": "mousedown",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 1,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[1]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 636,
+                    "height": 79
+                },
+                "styles": {
+                    "height": 79,
+                    "width": 636
+                },
+                "data": null
+            },
+            {
+                "id": "#distance",
+                "tag": "div",
+                "event": "mousedown",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 2,
+                "siblings": 4,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div",
+                "startingPath": "2",
+                "attributes": {
+                    "role": "graphics-document",
+                    "aria-roledescription": "visualization",
+                    "aria-label": "Vega visualization"
+                },
+                "styles": {
+                    "height": 180,
+                    "width": 690
+                },
+                "data": null
+            },
+            {
+                "id": "#distance canvas.marks",
+                "tag": "canvas",
+                "event": "mousedown",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 4,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 690,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 690
+                },
+                "data": null
+            },
+            {
+                "id": "#arrival canvas.marks",
+                "tag": "canvas",
+                "event": "mousedown",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 5,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[3]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 681,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 681
+                },
+                "data": null
+            },
+            {
+                "id": "#departure canvas.marks",
+                "tag": "canvas",
+                "event": "mousedown",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 6,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 681,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 681
+                },
+                "data": null
+            },
+            {
+                "id": "#airtime canvas.marks",
+                "tag": "canvas",
+                "event": "mousedown",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 7,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[6]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 686,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 686
+                },
+                "data": null
+            },
+            {
+                "id": "#delay canvas.marks",
+                "tag": "canvas",
+                "event": "mousedown",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 8,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[7]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 479,
+                    "height": 381
+                },
+                "styles": {
+                    "height": 381,
+                    "width": 479
+                },
+                "data": null
+            }
+        ]
+    },
+    "1": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#count canvas.marks",
+                "tag": "canvas",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 1,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[1]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 636,
+                    "height": 79
+                },
+                "styles": {
+                    "height": 79,
+                    "width": 636
+                },
+                "data": null
+            },
+            {
+                "id": "#count canvas.marks",
+                "tag": "canvas",
+                "event": "mousemove",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 1,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[1]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 636,
+                    "height": 79
+                },
+                "styles": {
+                    "height": 79,
+                    "width": 636
+                },
+                "data": null
+            },
+            {
+                "id": "#count canvas.marks",
+                "tag": "canvas",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 1,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[1]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 636,
+                    "height": 79
+                },
+                "styles": {
+                    "height": 79,
+                    "width": 636
+                },
+                "data": null
+            }
+        ]
+    },
+    "2": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#distance canvas.marks",
+                "tag": "canvas",
+                "event": "wheel",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 2,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 690,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 690
+                },
+                "data": null
+            },
+            {
+                "id": "#distance canvas.marks",
+                "tag": "canvas",
+                "event": "dblclick",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 2,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 690,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 690
+                },
+                "data": null
+            },
+            {
+                "id": "#distance canvas.marks",
+                "tag": "canvas",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 2,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 690,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 690
+                },
+                "data": null
+            },
+            {
+                "id": "#distance canvas.marks",
+                "tag": "canvas",
+                "event": "mousemove",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 2,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 690,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 690
+                },
+                "data": null
+            },
+            {
+                "id": "#distance canvas.marks",
+                "tag": "canvas",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 2,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 690,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 690
+                },
+                "data": null
+            },
+            {
+                "id": "#distance canvas.marks",
+                "tag": "canvas",
+                "event": "mousedown",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 3,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 690,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 690
+                },
+                "data": null
+            }
+        ]
+    },
+    "3": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#distance canvas.marks",
+                "tag": "canvas",
+                "event": "wheel",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 3,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 690,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 690
+                },
+                "data": null
+            },
+            {
+                "id": "#distance canvas.marks",
+                "tag": "canvas",
+                "event": "dblclick",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 3,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 690,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 690
+                },
+                "data": null
+            },
+            {
+                "id": "#distance canvas.marks",
+                "tag": "canvas",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 3,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 690,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 690
+                },
+                "data": null
+            },
+            {
+                "id": "#distance canvas.marks",
+                "tag": "canvas",
+                "event": "mousemove",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 3,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 690,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 690
+                },
+                "data": null
+            },
+            {
+                "id": "#distance canvas.marks",
+                "tag": "canvas",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 3,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 690,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 690
+                },
+                "data": null
+            },
+            {
+                "id": "#distance canvas.marks",
+                "tag": "canvas",
+                "event": "mouseup",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 2,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 690,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 690
+                },
+                "data": null
+            }
+        ]
+    },
+    "4": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#distance canvas.marks",
+                "tag": "canvas",
+                "event": "wheel",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 4,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 690,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 690
+                },
+                "data": null
+            },
+            {
+                "id": "#distance canvas.marks",
+                "tag": "canvas",
+                "event": "dblclick",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 4,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 690,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 690
+                },
+                "data": null
+            },
+            {
+                "id": "#distance canvas.marks",
+                "tag": "canvas",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 4,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 690,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 690
+                },
+                "data": null
+            },
+            {
+                "id": "#distance canvas.marks",
+                "tag": "canvas",
+                "event": "mousemove",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 4,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 690,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 690
+                },
+                "data": null
+            },
+            {
+                "id": "#distance canvas.marks",
+                "tag": "canvas",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 4,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 690,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 690
+                },
+                "data": null
+            },
+            {
+                "id": "#distance canvas.marks",
+                "tag": "canvas",
+                "event": "mouseup",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[2]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 690,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 690
+                },
+                "data": null
+            }
+        ]
+    },
+    "5": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#arrival canvas.marks",
+                "tag": "canvas",
+                "event": "wheel",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 5,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[3]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 681,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 681
+                },
+                "data": null
+            },
+            {
+                "id": "#arrival canvas.marks",
+                "tag": "canvas",
+                "event": "dblclick",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 5,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[3]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 681,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 681
+                },
+                "data": null
+            },
+            {
+                "id": "#arrival canvas.marks",
+                "tag": "canvas",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 5,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[3]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 681,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 681
+                },
+                "data": null
+            },
+            {
+                "id": "#arrival canvas.marks",
+                "tag": "canvas",
+                "event": "mousemove",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 5,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[3]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 681,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 681
+                },
+                "data": null
+            },
+            {
+                "id": "#arrival canvas.marks",
+                "tag": "canvas",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 5,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[3]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 681,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 681
+                },
+                "data": null
+            },
+            {
+                "id": "#arrival canvas.marks",
+                "tag": "canvas",
+                "event": "mouseup",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[3]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 681,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 681
+                },
+                "data": null
+            }
+        ]
+    },
+    "6": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#departure canvas.marks",
+                "tag": "canvas",
+                "event": "wheel",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 6,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 681,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 681
+                },
+                "data": null
+            },
+            {
+                "id": "#departure canvas.marks",
+                "tag": "canvas",
+                "event": "dblclick",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 6,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 681,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 681
+                },
+                "data": null
+            },
+            {
+                "id": "#departure canvas.marks",
+                "tag": "canvas",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 6,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 681,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 681
+                },
+                "data": null
+            },
+            {
+                "id": "#departure canvas.marks",
+                "tag": "canvas",
+                "event": "mousemove",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 6,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 681,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 681
+                },
+                "data": null
+            },
+            {
+                "id": "#departure canvas.marks",
+                "tag": "canvas",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 6,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 681,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 681
+                },
+                "data": null
+            },
+            {
+                "id": "#departure canvas.marks",
+                "tag": "canvas",
+                "event": "mouseup",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[4]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 681,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 681
+                },
+                "data": null
+            }
+        ]
+    },
+    "7": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#airtime canvas.marks",
+                "tag": "canvas",
+                "event": "wheel",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 7,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[6]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 686,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 686
+                },
+                "data": null
+            },
+            {
+                "id": "#airtime canvas.marks",
+                "tag": "canvas",
+                "event": "dblclick",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 7,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[6]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 686,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 686
+                },
+                "data": null
+            },
+            {
+                "id": "#airtime canvas.marks",
+                "tag": "canvas",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 7,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[6]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 686,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 686
+                },
+                "data": null
+            },
+            {
+                "id": "#airtime canvas.marks",
+                "tag": "canvas",
+                "event": "mousemove",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 7,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[6]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 686,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 686
+                },
+                "data": null
+            },
+            {
+                "id": "#airtime canvas.marks",
+                "tag": "canvas",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 7,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[6]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 686,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 686
+                },
+                "data": null
+            },
+            {
+                "id": "#airtime canvas.marks",
+                "tag": "canvas",
+                "event": "mouseup",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 0,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[6]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 686,
+                    "height": 176
+                },
+                "styles": {
+                    "height": 176,
+                    "width": 686
+                },
+                "data": null
+            }
+        ]
+    },
+    "8": {
+        "visited": null,
+        "transitions": [
+            {
+                "id": "#delay canvas.marks",
+                "tag": "canvas",
+                "event": "dblclick",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 8,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[7]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 479,
+                    "height": 381
+                },
+                "styles": {
+                    "height": 381,
+                    "width": 479
+                },
+                "data": null
+            },
+            {
+                "id": "#delay canvas.marks",
+                "tag": "canvas",
+                "event": "mouseout",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 8,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[7]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 479,
+                    "height": 381
+                },
+                "styles": {
+                    "height": 381,
+                    "width": 479
+                },
+                "data": null
+            },
+            {
+                "id": "#delay canvas.marks",
+                "tag": "canvas",
+                "event": "mousemove",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 8,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[7]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 479,
+                    "height": 381
+                },
+                "styles": {
+                    "height": 381,
+                    "width": 479
+                },
+                "data": null
+            },
+            {
+                "id": "#delay canvas.marks",
+                "tag": "canvas",
+                "event": "click",
+                "brushable": null,
+                "zoomable": null,
+                "leadsToState": 8,
+                "siblings": 0,
+                "visited": null,
+                "xpath": "/html[1]/body[1]/div[2]/div[7]/canvas[1]",
+                "startingPath": -1,
+                "attributes": {
+                    "width": 479,
+                    "height": 381
+                },
+                "styles": {
+                    "height": 381,
+                    "width": 479
+                },
+                "data": null
+            }
+        ]
+    }
+}
